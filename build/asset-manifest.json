@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Manojkumar235/Text-Utils.git/static/css/main.d2ce2377.chunk.css",
+    "main.js": "/Manojkumar235/Text-Utils.git/static/js/main.b5ffb631.chunk.js",
+    "main.js.map": "/Manojkumar235/Text-Utils.git/static/js/main.b5ffb631.chunk.js.map",
+    "runtime-main.js": "/Manojkumar235/Text-Utils.git/static/js/runtime-main.d862e7ab.js",
+    "runtime-main.js.map": "/Manojkumar235/Text-Utils.git/static/js/runtime-main.d862e7ab.js.map",
+    "static/js/2.7ad7e499.chunk.js": "/Manojkumar235/Text-Utils.git/static/js/2.7ad7e499.chunk.js",
+    "static/js/2.7ad7e499.chunk.js.map": "/Manojkumar235/Text-Utils.git/static/js/2.7ad7e499.chunk.js.map",
+    "static/js/3.342d1b4b.chunk.js": "/Manojkumar235/Text-Utils.git/static/js/3.342d1b4b.chunk.js",
+    "static/js/3.342d1b4b.chunk.js.map": "/Manojkumar235/Text-Utils.git/static/js/3.342d1b4b.chunk.js.map",
+    "index.html": "/Manojkumar235/Text-Utils.git/index.html",
+    "static/css/main.d2ce2377.chunk.css.map": "/Manojkumar235/Text-Utils.git/static/css/main.d2ce2377.chunk.css.map",
+    "static/js/2.7ad7e499.chunk.js.LICENSE.txt": "/Manojkumar235/Text-Utils.git/static/js/2.7ad7e499.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d862e7ab.js",
+    "static/js/2.7ad7e499.chunk.js",
+    "static/css/main.d2ce2377.chunk.css",
+    "static/js/main.b5ffb631.chunk.js"
+  ]
+}
